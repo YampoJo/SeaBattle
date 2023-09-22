@@ -1,0 +1,6 @@
+﻿  SeaBattle ex2.cpp
+C:\Users\student.ITSTEP\Documents\Данил Ямпольцев\cpp\SeaBattle\seabattle\SeaBattle ex2.cpp(37,18): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\student.ITSTEP\Documents\Данил Ямпольцев\cpp\SeaBattle\seabattle\SeaBattle ex2.cpp(37,21): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\student.ITSTEP\Documents\Данил Ямпольцев\cpp\SeaBattle\seabattle\SeaBattle ex2.cpp(35,9): warning C4101: hConsole: неиспользованная локальная переменная
+C:\Users\student.ITSTEP\Documents\Данил Ямпольцев\cpp\SeaBattle\seabattle\SeaBattle ex2.cpp(109,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  seabattle.vcxproj -> C:\Users\student.ITSTEP\Documents\Данил Ямпольцев\cpp\SeaBattle\Debug\seabattle.exe
